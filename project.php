@@ -6,9 +6,7 @@
     </style>
 </head>
     <body>
-        
         <?php
-            
             $nameErr = $emailErr = $inameErr = "";
             $name = $email = $iname = "";
 
